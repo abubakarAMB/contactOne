@@ -164,7 +164,7 @@ while($row = $result->fetch_assoc()) {
 </head>
 <body>
 
-<h3>Using CSS to style an HTML Form smartly</h3>
+<h3>Using CSS to style an HTML Form  By AMB</h3>
 
 <div>
   <form action="index.php" method="POST">
